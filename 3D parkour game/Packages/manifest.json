@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.unity.probuilder": "3.10.1",
+    "com.unity.progrids": "3.0.3-preview.6"
+  }
+}
